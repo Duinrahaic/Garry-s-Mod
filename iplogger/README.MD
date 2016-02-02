@@ -10,3 +10,6 @@
   * Allow access of files within game without interfearing with server
   * Grant specific users access to interface thorough various methods, but withhould from normal ranks
   * Allow for yearly storage and routine cleanup of files.
+
+**Credit:**
+  *von.lua does not belong to me. It is open-source code developed by Alexandru-Mihai Maftei (aka Vercas). https://github.com/vercas/vON/blob/master/von.lua
